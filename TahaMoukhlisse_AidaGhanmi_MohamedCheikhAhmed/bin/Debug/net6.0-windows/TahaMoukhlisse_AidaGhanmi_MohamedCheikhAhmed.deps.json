@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "TahaMoukhlisse_AidaGhanmi_MohamedCheikhAhmed/1.0.0": {
+        "runtime": {
+          "TahaMoukhlisse_AidaGhanmi_MohamedCheikhAhmed.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TahaMoukhlisse_AidaGhanmi_MohamedCheikhAhmed/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

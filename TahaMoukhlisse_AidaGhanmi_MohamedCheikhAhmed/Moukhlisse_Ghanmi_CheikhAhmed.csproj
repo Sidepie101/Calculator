@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="maths-1426891_1920.png" />
+    <None Remove="WPFapp.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="maths-1426891_1920.png" />
+  </ItemGroup>
+
+</Project>
